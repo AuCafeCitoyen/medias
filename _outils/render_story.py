@@ -17,7 +17,7 @@ BLACK, ORANGE, GREY = (21, 21, 21), (255, 74, 35), (90, 90, 90)
 # 4x5 (2160x2700) : feed Instagram. Pas d'icônes ; la grille du profil recadre en 3:4 (≈70 px par côté).
 FORMATS = {
     "9x16": dict(X0=190, X1=1800, Y0=780, Y_MAX=2880, K=1.0, NCOL=2),
-    "4x5": dict(X0=170, X1=1990, Y0=470, Y_MAX=2330, K=1.0, NCOL=3),
+    "4x5": dict(X0=170, X1=1990, Y0=430, Y_MAX=2330, K=1.0, NCOL=3),
 }
 F = FORMATS[FMT]
 X0, X1, Y_MAX, K = F["X0"], F["X1"], F["Y_MAX"], F["K"]
