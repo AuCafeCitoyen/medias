@@ -1,0 +1,16 @@
+[
+  {"file": "post1-banques-1", "label": "L'ACTU AVEC DU RECUL · 18 NOVEMBRE",
+   "head": "DES BANQUES À L'ARRÊT DES DEUX CÔTÉS DE L'ATLANTIQUE", "hsize": 150,
+   "body": "4 nov. : le Crédit Mutuel Arkéa reconnaît une cyberattaque d'environ 100 millions d'euros. Appli inaccessible plusieurs heures, virements suspendus.\n16 nov. : aux États-Unis, des milliers de clients de 4 grandes banques (Chase, Bank of America, Wells Fargo, U.S. Bank) signalent ne plus pouvoir accéder à leur argent. Le 17, Chase annonce un retour à la normale.",
+   "src": "Sources : AFP, franceinfo, CNN, Fortune"},
+  {"file": "post1-banques-2", "label": "LA QUESTION",
+   "head": "ET SI LES GRANDES BANQUES SE FAISAIENT HACKER DEMAIN.", "hsize": 190,
+   "sub": "TU FERAIS QUOI ?"},
+  {"file": "post2-cyber-1", "label": "L'ACTU AVEC DU RECUL · 18 NOVEMBRE",
+   "head": "3 VOLS DE DONNÉES PAR JOUR", "hsize": 170,
+   "body": "En France, 3 vols de données par jour en moyenne depuis janvier, selon le Premier ministre. 25 organismes publics touchés :",
+   "cols": ["Impôts","Urssaf","CAF","France Travail","ANTS","Éducation nat.","ÉduConnect","Parcoursup","Crous","Afpa","La Poste (Maileva)","Pompiers (57, 30, 67)","Transition écolo.","Affaires étrangères","ANSSI","Tchap","HubEE","Bloctel","ANFR","OFB","ASP","EFS","JeVeuxAider","Choisir le service public","France Éducation intern."],
+   "src": "Sources : info.gouv.fr ; Selectra au 14/11 (attaques confirmées ou revendiquées)"},
+  {"file": "post2-cyber-2", "label": "LA QUESTION",
+   "head": "QUEL SERVICE PUBLIC N'A PAS ÉTÉ TOUCHÉ ?", "hsize": 200}
+]
